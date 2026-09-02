@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e00ddcde56966b42b02182609ce6520, type: 3}
+  m_Name: HD_Sphere_Shopitem
+  m_EditorClassIdentifier: 
+  _uid: c44f7c1fbcf6ac04cbb3cbe999323a96
+  _item: {fileID: 11400000, guid: 624e2129877b2e64e8d0a152583d8500, type: 2}
+  _productCount: 1
+  _productPrice: 1000
+  _productPriceInCry: 1
+  _currencyToPay: {fileID: 11400000, guid: 3ed60ab33a74e1e4482bfa3c14a56487, type: 2}
+  _isDiscount: 0
+  _discountPercent: 0
+  _storeKey: hd_sphere
+  _icon: {fileID: 21300000, guid: cd34f71251344dd44a8c4e029059e686, type: 3}
+  _background: {fileID: 0}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c49f9ea4cee95e46bfb06c409d059ff, type: 3}
+  m_Name: Stage03
+  m_EditorClassIdentifier: 
+  _uid: c009bbbc817ddbf4bb35c5edc5974eaa
+  _position: {x: -779, y: 1311}
+  _stagename: "\u062F\u0631\u0647 \u0628\u06CC\u062A\u0648"
+  _description: "\u0622\u0632\u0627\u062F\u06CC \u0648 \u0648\u0633\u0639\u062A \u0627\u06CC\u0646
+    \u062F\u0631\u0647\u060C \u0628\u06CC\u062A\u0648 \u062E\u0627\u0644\u0642 \u0642\u0644\u0645\u0631\u0648\u06CC
+    \u0632\u0645\u06CC\u0646 \u0631\u0627 \u0628\u0647 \u062E\u0648\u062F \u062C\u0630\u0628
+    \u06A9\u0631\u062F\u0647. \u0627\u06CC\u0646 \u062F\u0631\u0647 \u0631\u0627\u0647
+    \u0631\u0627 \u0628\u0631\u0627\u06CC \u0645\u0639\u062C\u0632\u0627\u062A \u0648
+    \u0686\u0634\u0645 \u0627\u0646\u062F\u0627\u0632\u0647\u0627\u06CC \u062F\u06CC\u06AF\u0631
+    \u0642\u0644\u0645\u0631\u0648 \u0628\u0627\u0632 \u06A9\u0631\u062F \u06A9\u0647
+    \u0628\u06CC\u062A\u0648 \u0628\u0627 \u06A9\u0645\u06A9 \u06A9\u062A\u0627\u0628
+    \u0637\u0644\u0633\u0645 \u062E\u0648\u062F \u0627\u06CC\u062C\u0627\u062F \u06A9\u0631\u062F
+    \u06A9\u0647 \u0627\u06A9\u0646\u0648\u0646 \u062A\u062D\u062A \u062D\u0645\u0627\u06CC\u062A
+    \u0644\u0631\u062F \u0644\u06CC\u0686 \u067E\u0646\u0647\u0627\u0646 \u0634\u062F\u0647
+    \u0627\u0633\u062A."
+  _levels:
+  - LevelPosition: {x: -491, y: 267}
+    Config: {fileID: 11400000, guid: 23423733cd4408c418e57d3d5b4ac674, type: 2}
+  - LevelPosition: {x: -539, y: 110}
+    Config: {fileID: 11400000, guid: 4965fc754e7452243850229094f5294e, type: 2}
+  - LevelPosition: {x: -671, y: -46}
+    Config: {fileID: 11400000, guid: ab78b46ce8aa34244ad767e59c5ea08e, type: 2}
+  - LevelPosition: {x: -457, y: -65}
+    Config: {fileID: 11400000, guid: fa50ca3ee27b7a84692821d92004dcc4, type: 2}
+  - LevelPosition: {x: -263, y: -36}
+    Config: {fileID: 11400000, guid: c63e0773e2cf0ab4a90b71486a005ffa, type: 2}
+  - LevelPosition: {x: -107, y: 97}
+    Config: {fileID: 11400000, guid: 4700541a8dc34834fb708dc2b71e570d, type: 2}
+  - LevelPosition: {x: -45, y: 255}
+    Config: {fileID: 11400000, guid: e5f826be137101f4483c2dedcac0685a, type: 2}
+  - LevelPosition: {x: 124, y: 341}
+    Config: {fileID: 11400000, guid: 9b27a5b05c91f5e44b6484f7b231df7c, type: 2}
+  - LevelPosition: {x: 309, y: 277}
+    Config: {fileID: 11400000, guid: b7d8c99a7bc7c144fa50bf40f0c0446d, type: 2}
+  - LevelPosition: {x: 360, y: 439}
+    Config: {fileID: 11400000, guid: 3885ed9ec8f8b2548b797810ebc7c102, type: 2}

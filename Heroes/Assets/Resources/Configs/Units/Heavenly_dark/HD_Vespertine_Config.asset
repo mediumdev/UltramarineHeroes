@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: HD_Vespertine_Config
+  m_EditorClassIdentifier: 
+  _uid: ed54e1374e934ab4eb6e798da4b8d5da
+  _unitPrefab: {fileID: 2636836901543574323, guid: 3be740f7a0db28040b0fdfcabbc281b7,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 9a4be2ab58c0d1e458856c2ac1a7bdc4, type: 3}
+  _name: "\u0634\u0627\u0645\u06AF\u0627\u0647"
+  _description: "\u0627\u0634\u0628\u0627\u062D \u0634\u0628"
+  _abilityDescription: "\u0628\u062F\u0648\u0646 \u0642\u0627\u0628\u0644\u06CC\u062A"
+  _loreText: "\u062F\u0648\u0634\u06CC\u0632\u0647 \u0634\u0628 \u06A9\u0647 \u0627\u0631\u062A\u0634\u0634
+    \u0631\u0648 \u0628\u0631\u0627\u06CC \u062C\u0646\u06AF \u062A\u0627 \u067E\u06CC\u0631\u0648\u0632\u06CC
+    \u062A\u0634\u0648\u06CC\u0642 \u0645\u06CC\u06A9\u0646\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 6
+  _maxCount: 4
+  _preloadCount: 4
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 0
+    _attackLineType: 00000000
+  _unitTags: 
+  _moveSpeed: 10
+  _attackRange: 1
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 515375550313584232, guid: 0991fe072e1bd7b449212f750377c690,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 150
+  _hitPoints: 600
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 0
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 0.8
+  _attackSound: {fileID: 11400000, guid: de1ab1c1a1635e244a5fe4162307411b, type: 2}
+  _attackDelay: 0.5
+  _attackDuration: 1
+  _reloadTime: 1.2
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 10
+  _positionY: 20
+  _targetPointOffset: {x: 0, y: 0.65}

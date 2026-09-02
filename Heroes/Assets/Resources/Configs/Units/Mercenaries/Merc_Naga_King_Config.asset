@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: Merc_Naga_King_Config
+  m_EditorClassIdentifier: 
+  _uid: 772d4edc33d1ff94fafe37c255fb1ed0
+  _unitPrefab: {fileID: 5692187996437678333, guid: 2e96d954d8abf0b45ad3fe65eb41807c,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 91aba543dc5b4f942bc9f8813b4fe839, type: 3}
+  _name: "\u067E\u0627\u062F\u0634\u0627\u0647 \u0646\u0627\u06AF\u0627"
+  _description: "\u0645\u0632\u062F\u0648\u0631"
+  _abilityDescription: "\u0636\u0631\u0628\u0627\u062A \u0634\u062F\u06CC\u062F\u0627
+    \u0642\u0648\u06CC"
+  _loreText: "\u0628\u0639\u062F \u0627\u0632 \u062E\u0644\u0639 \u0634\u062F\u0646
+    \u0627\u0632 \u062A\u062E\u062A \u0642\u062F\u0631\u062A\u060C \u0633\u0648\u06AF\u0646\u062F
+    \u062E\u0648\u0631\u062F \u06A9\u0647 \u0627\u0632 \u062F\u0634\u0645\u0646 \u0627\u0646\u062A\u0642\u0627\u0645
+    \u0628\u06AF\u0631\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 1
+  _cost: 8
+  _maxCount: 2
+  _preloadCount: 2
+  _isInfinite: 0
+  _unitSize: 1
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 
+  - _setupType: 1
+    _attackLineType: 
+  _unitTags: 
+  _moveSpeed: 15
+  _attackRange: 1
+  _attackType: 0
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0.5, z: 0}
+  _damage: 250
+  _hitPoints: 1000
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 0.08
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 0.96
+  _attackSound: {fileID: 11400000, guid: 923b64d220c8de34da73ce6777da3b4f, type: 2}
+  _attackDelay: 0.797
+  _attackDuration: 1
+  _reloadTime: 0.96
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: -10
+  _positionY: 50
+  _targetPointOffset: {x: 0, y: 0.6}

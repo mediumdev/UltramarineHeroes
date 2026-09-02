@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: DM_Hellhound_Config
+  m_EditorClassIdentifier: 
+  _uid: aff98bc97569418418eafeefe77189a1
+  _unitPrefab: {fileID: 4980710694757239255, guid: 28c6bcf5459717345967192a63056087,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 1162fb3c63c2c844f83e5fa4486cea5d, type: 3}
+  _name: "\u0633\u06AF \u062C\u0647\u0646\u0645\u06CC"
+  _description: "\u0644\u0698\u06CC\u0648\u0646 \u0627\u0634\u0631\u0627\u0631"
+  _abilityDescription: "\u0628\u0627 \u0633\u0647 \u0633\u0631 \u062F\u0634\u0645\u0646
+    \u0631\u0648 \u06AF\u0627\u0632 \u0645\u06CC\u06AF\u06CC\u0631\u0647"
+  _loreText: "\u0633\u06AF\u06CC \u0634\u0631\u0648\u0631 \u06A9\u0647 \u0628\u0627
+    \u0633\u0647 \u0633\u0631\u0634 \u062A\u0631\u0633 \u0631\u0648 \u0627\u0644\u0642\u0627
+    \u0645\u06CC\u06A9\u0646\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 3
+  _maxCount: 7
+  _preloadCount: 7
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 02000000
+  _unitTags: 00000000
+  _moveSpeed: 13
+  _attackRange: 2
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 515375550313584232, guid: 0991fe072e1bd7b449212f750377c690,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 65
+  _hitPoints: 265
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: e42bafd111247074dba7abbe3fc62a8e, type: 2}
+  _precastTime: 0.6
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 0.7
+  _attackSound: {fileID: 11400000, guid: 3cd71e3d95a3aaf459be8be4a8d62b3b, type: 2}
+  _attackDelay: 0.404
+  _attackDuration: 1
+  _reloadTime: 0.7
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 25
+  _positionY: 20
+  _targetPointOffset: {x: 0.15, y: 0.34}

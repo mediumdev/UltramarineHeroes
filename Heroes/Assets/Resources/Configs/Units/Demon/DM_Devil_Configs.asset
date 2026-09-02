@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: DM_Devil_Configs
+  m_EditorClassIdentifier: 
+  _uid: aee067fcd33c3a243a689a4c5f0feca3
+  _unitPrefab: {fileID: 6832254366539368212, guid: a82204ce3961d26469f4714efb12807a,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 88eed73dbceceae409185cfcfeb34fed, type: 3}
+  _name: "\u0627\u0647\u0631\u06CC\u0645\u0646"
+  _description: "\u0644\u0698\u06CC\u0648\u0646 \u0627\u0634\u0631\u0627\u0631"
+  _abilityDescription: "\u0628\u0639\u062F \u0627\u0632 \u0645\u0631\u06AF 100 \u0622\u0633\u06CC\u0628
+    \u0648\u0627\u0631\u062F \u0645\u06CC\u06A9\u0646\u0647"
+  _loreText: "\u0627\u0631\u0628\u0627\u0628 \u0627\u0634\u0631\u0627\u0631\u060C
+    \u0634\u0627\u06CC\u0633\u062A\u0647 \u062A\u0631\u0633 \u0648 \u0627\u062D\u062A\u0631\u0627\u0645"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 10
+  _maxCount: 2
+  _preloadCount: 2
+  _isInfinite: 0
+  _unitSize: 1
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 02000000
+  _unitTags: 0000000002000000
+  _moveSpeed: 10
+  _attackRange: 3
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 8566115964146173253, guid: 081d4a51934049449b60de351a8dea6b,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 210
+  _hitPoints: 845
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: b11ea66354336fc4bad0532527b37fbf, type: 2}
+  _precastTime: 0
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 1.3
+  _attackSound: {fileID: 11400000, guid: 2e1a4fb8c35f2cd44931862dff1bec62, type: 2}
+  _attackDelay: 1
+  _attackDuration: 1
+  _reloadTime: 0.7
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 0
+  _positionY: 75
+  _targetPointOffset: {x: 0, y: 0.7}

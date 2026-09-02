@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Heroes/Assets/Resources/Configs/Stages.meta
+guid: 1eb0d84742c12af49908f19b56884863
+=======
+guid: f0134e56c09e5f342966c0d5324187d5
+>>>>>>> 61920449 (https://city.megion-group.ru:8443/all_projects/UltramarineHeroes/-/issues/92/ пробы пера: драфт анимированного шейдера для эффектов. три текстуры, 6 режимов смешивания, направление и скорость движения каждой текстуры.):Heroes/Assets/Resources/Shaders/Editor.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

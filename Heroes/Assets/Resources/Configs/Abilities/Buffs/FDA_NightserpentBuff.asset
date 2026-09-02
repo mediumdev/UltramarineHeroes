@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07430a056d1848f79b586028c1ee60eb, type: 3}
+  m_Name: FDA_NightserpentBuff
+  m_EditorClassIdentifier: 
+  _uid: f9f9149088c6ccd458b977760b13c23d
+  _botAiType: 0
+  _BotAiUnitLowerBoundCounter: 0
+  _BotAiUnitUpperBoundCounter: 0
+  _botAiUnitLowerBoundOfMinimumCost: 0
+  _botAiUnitUpperBoundOfMinimumCost: 0
+  _type: 3
+  _name: 
+  _icon: {fileID: 0}
+  _targetType: 1
+  _fx: {fileID: 0}
+  _fxPosition: {x: 0, y: 0, z: 0}
+  _fxScale: {x: 1, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _attackType: 0
+  _buffAllFactions: 0
+  _abilityEffects:
+  - {fileID: 11400000, guid: 65ae16d766a97704199ee91aa335b310, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c49f9ea4cee95e46bfb06c409d059ff, type: 3}
+  m_Name: Stage01
+  m_EditorClassIdentifier: 
+  _uid: b6fc86946a8e2af49899183ef528a280
+  _position: {x: 1542, y: 1432}
+  _stagename: "\u062C\u0646\u06AF\u0644 \u0627\u0631\u0648\u0627\u062D"
+  _description: "\u0641\u0644\u06CC\u0646 \u067E\u0633 \u0627\u0632 \u062C\u0645\u0639
+    \u0622\u0648\u0631\u06CC \u0627\u0631\u062A\u0634 \u06A9\u0648\u0686\u06A9\u06CC
+    \u0645\u062A\u0634\u06A9\u0644 \u0627\u0632 \u0627\u0648\u0631\u06A9 \u0648 \u0627\u0646\u0633\u0627\u0646\u060C
+    \u0628\u0647 \u0627\u0639\u0645\u0627\u0642 \u062C\u0646\u06AF\u0644 \u0627\u0631\u0648\u0627\u062D
+    \u0631\u0641\u062A \u06A9\u0647 \u0645\u06A9\u0627\u0646\u06CC \u0645\u0642\u062F\u0633
+    \u0628\u0631\u0627\u06CC \u0633\u0627\u06A9\u0646\u0627\u0646 \u0642\u0644\u0645\u0631\u0648\u06CC
+    \u0632\u0645\u06CC\u0646 \u0627\u0633\u062A. \u0647\u0646\u0648\u0632 \u0647\u0645
+    \u0645\u06CC\u0634\u0647 \u062C\u0627\u0647 \u0637\u0644\u0628\u06CC \u0647\u0627\u06CC
+    \u067E\u0644\u06CC\u062F \u0641\u0644\u06CC\u0646 \u0631\u0648 \u062F\u0631 \u0646\u0637\u0641\u0647
+    \u062E\u0641\u0647 \u06A9\u0631\u062F \u0648 \u062E\u0627\u0626\u0646\u0627\u0646
+    \u0631\u0648 \u0634\u06A9\u0633\u062A \u062F\u0627\u062F."
+  _levels:
+  - LevelPosition: {x: -738, y: -217}
+    Config: {fileID: 11400000, guid: 32a2dba85fd5723469d172c4d5c1837d, type: 2}
+  - LevelPosition: {x: -676, y: -55}
+    Config: {fileID: 11400000, guid: 8a8c3aa2e64bfcc459ffa01fac6f1a54, type: 2}
+  - LevelPosition: {x: -556, y: 95}
+    Config: {fileID: 11400000, guid: 77cab350d40733c4facb96bbeb5434ba, type: 2}
+  - LevelPosition: {x: -365, y: 205}
+    Config: {fileID: 11400000, guid: c5335df3d7777dd41a97acb01fa4bcda, type: 2}
+  - LevelPosition: {x: -195, y: 137}
+    Config: {fileID: 11400000, guid: b10cb021075b4be44b44fbf07d8dc07d, type: 2}
+  - LevelPosition: {x: -116, y: -15}
+    Config: {fileID: 11400000, guid: 6baee82caa7b34d4997ef139086da5a8, type: 2}
+  - LevelPosition: {x: 28, y: -77}
+    Config: {fileID: 11400000, guid: e0cecf031749eb94a8c26b8098c9041a, type: 2}
+  - LevelPosition: {x: 187, y: -143}
+    Config: {fileID: 11400000, guid: 8594cf8ee903bf24291c89ffb63960e7, type: 2}
+  - LevelPosition: {x: 369, y: -165}
+    Config: {fileID: 11400000, guid: 381dd645999faa641aafb795412338bb, type: 2}
+  - LevelPosition: {x: 499, y: -33}
+    Config: {fileID: 11400000, guid: 0a0819c991ac3d84ca22839028b23c51, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 916d02604cc24d1ea25bd9e563771870, type: 3}
+  m_Name: TestChapter1.CampaignChapterConfig
+  m_EditorClassIdentifier: 
+  _uid: e18d173a9904c0d438646a902da0a657
+  _decks:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 0ff0193e3f7f81340ab32f5d8aade3a3, type: 2}
+  - {fileID: 11400000, guid: 6f17a252635f369479a29d07e312c790, type: 2}
+  - {fileID: 11400000, guid: 5ac1b94f018a9214097e8cf02b465008, type: 2}
+  - {fileID: 11400000, guid: 8d222f4dd3f8127419964d8de21e5a99, type: 2}
+  - {fileID: 11400000, guid: b9a1d65b7b02fb5429c0078785e51799, type: 2}
+  - {fileID: 11400000, guid: fc408124da615a14f9f7bf7a9f2046a5, type: 2}
+  - {fileID: 11400000, guid: 5f8b0e65d7c51414a8faae3c4d1c4478, type: 2}
+  - {fileID: 11400000, guid: c7d963b3d2a5a4948b8bcff8e22c7e4a, type: 2}
+  - {fileID: 11400000, guid: 361d3bebfc22de045b9bcea54b8ef145, type: 2}

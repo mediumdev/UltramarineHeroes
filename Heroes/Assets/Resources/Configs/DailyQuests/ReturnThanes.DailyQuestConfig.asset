@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571d7a01efe24edc985aa08a4c3d8f90, type: 3}
+  m_Name: ReturnThanes.DailyQuestConfig
+  m_EditorClassIdentifier: 
+  _uid: 9d33e33cd94c8a44995f682a68d09f97
+  _userDeck: {fileID: 11400000, guid: 1438bb20f64a6c845b7e45821eb4ce3d, type: 2}
+  _botDeck: {fileID: 11400000, guid: 25d4999e57f1451428260666e8ba2692, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: c2b2a0558fc20ed4bb60098f0df66b15, type: 2}
+  _icon: {fileID: 21300000, guid: eb6a19685c3a7a6419f77cd1f0818616, type: 3}
+  _description: "\u063A\u0648\u0644\u0647\u0627\u06CC \u0627\u0635\u06CC\u0644 \u0628\u0631\u06AF\u0634\u062A\u0646
+    \u062A\u0627 \u0646\u0638\u0645 \u0631\u0648 \u0628\u0647 \u0642\u0644\u0645\u0631\u0648\u0647\u0627
+    \u0628\u06CC\u0627\u0631\u0646"
+  _name: "\u0628\u0627\u0632\u06AF\u0634\u062A \u062A\u0627\u06CC\u062A\u0627\u0646
+    \u0647\u0627"

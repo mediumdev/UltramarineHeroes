@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Heroes/Assets/Resources/Prefabs/Units/Mercenaries/Merc_DK.prefab.meta
+guid: 5e5e9e4bd530ae946be89d1d5ae921cc
+========
+guid: 777fc24dc35313343952da95ffbe9409
+>>>>>>>> af186d63 (# 106 -  Прочее ---> Подключение звуков атаки (юниты)):Heroes/Assets/Resources/Prefabs/FX/FX_tower/fx_Orcs_tower_healing_line.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

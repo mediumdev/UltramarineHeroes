@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cb11a063b3e4b4d980bf9bf8023ae4, type: 3}
+  m_Name: UniversalTowerAbility
+  m_EditorClassIdentifier: 
+  _uid: c9b525fdabf2c614e9d9cdf4a354ef27
+  _botAiType: 0
+  _BotAiUnitLowerBoundCounter: 2
+  _BotAiUnitUpperBoundCounter: 5
+  _botAiUnitLowerBoundOfMinimumCost: 5
+  _botAiUnitUpperBoundOfMinimumCost: 10
+  _type: 0
+  _name: "\u062F\u06CC\u0648\u0627\u0631 \u0622\u062A\u0634"
+  _icon: {fileID: 21300000, guid: f188ba3d98ce38a489278c40f97d69f6, type: 3}
+  _targetType: 0
+  _fx: {fileID: 8511655632965629801, guid: ec14d67aa48cf5446a016f605002ea73, type: 3}
+  _fxPosition: {x: 0.556, y: -0.48, z: -0.19}
+  _fxScale: {x: 0.132, y: 1, z: 0.57}
+  _customAnimation: 0
+  _intervalDuration: 1
+  _intervalCount: 1
+  _towerAbilitySound: {fileID: 11400000, guid: 7e3f3c02f1fc7be419551e60ddd2e76f, type: 2}
+  _value: -250
+  _isPercent: 0
+  _fxOnTarget: {fileID: 2448613936927623051, guid: b8148bd8a38cb9746b122429748db972,
+    type: 3}
+  _fxOnTargetPosition: {x: 0.1, y: 0, z: -0.06}

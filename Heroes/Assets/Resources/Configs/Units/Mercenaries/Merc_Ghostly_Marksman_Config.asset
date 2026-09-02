@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: Merc_Ghostly_Marksman_Config
+  m_EditorClassIdentifier: 
+  _uid: d88ec820e87416b419f3b5c9d569b4fc
+  _unitPrefab: {fileID: 6657799821717200027, guid: 971721a1ba374034da9f32c68ab0f1f3,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 9c8752260ddac8a409b6daa5598ce1a7, type: 3}
+  _name: "\u0631\u0646\u062C\u0631 \u0631\u0648\u062C"
+  _description: "\u0645\u0632\u062F\u0648\u0631"
+  _abilityDescription: "\u0627\u0641\u0632\u0627\u06CC\u0634 \u062F\u0627\u0645\u0646\u0647
+    \u062D\u0645\u0644\u0647"
+  _loreText: "\u06CC\u06A9 \u0631\u0646\u062C\u0631 \u0628\u06CC \u0628\u0627\u06A9
+    \u0648 \u0628\u06CC \u0631\u062D\u0645\u067E"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 1
+  _cost: 4
+  _maxCount: 6
+  _preloadCount: 6
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 1
+    _attackLineType: 
+  - _setupType: 2
+    _attackLineType: 
+  _unitTags: 
+  _moveSpeed: 11
+  _attackRange: 8
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: 1705c4c22364271438fc1f9fb9ceb407,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 75
+  _hitPoints: 220
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 1.5
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 0.55
+  _attackSound: {fileID: 11400000, guid: 6d264a5be55e25a419fade8076d16493, type: 2}
+  _attackDelay: 0
+  _attackDuration: 1
+  _reloadTime: 0
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 0
+  _positionY: 40
+  _targetPointOffset: {x: 0, y: 0.65}

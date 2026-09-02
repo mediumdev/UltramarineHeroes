@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c49f9ea4cee95e46bfb06c409d059ff, type: 3}
+  m_Name: Stage09
+  m_EditorClassIdentifier: 
+  _uid: 7976db429788efd4b87afd71890f8b8a
+  _position: {x: -352, y: -477}
+  _stagename: "\u06A9\u0648\u0647\u067E\u0627\u06CC\u0647"
+  _description: "\u06A9\u0648\u0647\u067E\u0627\u06CC\u0647 \u0647\u0627\u06CC \u06A9\u0648\u0647
+    \u0645\u062E\u0648\u0641 \u062C\u0627\u06CC\u06CC \u06A9\u0647 \u0641\u0644\u06CC\u0646
+    \u0645\u06CC\u062E\u0648\u0627\u0647\u062F \u0645\u0631\u0627\u0633\u0645 \u062E\u0648\u0646\u06CC\u0646
+    \u062E\u0648\u062F \u0631\u0627 \u0622\u063A\u0627\u0632 \u06A9\u0646\u062F \u0648
+    \u0627\u06CC\u0627\u0633 \u0631\u0627 \u0628\u0627 \u062A\u0645\u0627\u0645 \u0642\u0644\u0645\u0631\u0648\u0647\u0627\u06CC\u0634
+    \u062A\u0635\u0631\u0641 \u06A9\u0646\u062F."
+  _levels:
+  - LevelPosition: {x: -775, y: -87}
+    Config: {fileID: 11400000, guid: 41eee9f9936ca3a41b87f73218b275f5, type: 2}
+  - LevelPosition: {x: -578, y: -99}
+    Config: {fileID: 11400000, guid: 0ca59ecf14f447f4f8fcc91556adeac7, type: 2}
+  - LevelPosition: {x: -395, y: -72}
+    Config: {fileID: 11400000, guid: 805ce174db469c342b490bffd8668e0e, type: 2}
+  - LevelPosition: {x: -211, y: -99}
+    Config: {fileID: 11400000, guid: 34b49bec9d0906943ac9f96ca8f3e6a1, type: 2}
+  - LevelPosition: {x: -60, y: -159}
+    Config: {fileID: 11400000, guid: baee954e18111ae47b0af1d63af8c3df, type: 2}
+  - LevelPosition: {x: 107, y: -232}
+    Config: {fileID: 11400000, guid: 3339397900390aa4188a8ed079d5120b, type: 2}
+  - LevelPosition: {x: 312, y: -258}
+    Config: {fileID: 11400000, guid: 48511ca02bc38d740b0df658195f49f3, type: 2}
+  - LevelPosition: {x: 487, y: -209}
+    Config: {fileID: 11400000, guid: ae3780d9b9cf1704aa15fd57d252e0ca, type: 2}
+  - LevelPosition: {x: 432, y: -55}
+    Config: {fileID: 11400000, guid: 10a98b95ce29c6147bcff2ad9351d3aa, type: 2}
+  - LevelPosition: {x: 367, y: 85}
+    Config: {fileID: 11400000, guid: 20ebd5c49d2c57c4c9cabe6f8f0c0d00, type: 2}

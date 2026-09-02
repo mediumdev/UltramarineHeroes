@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e162e4c082e31d48a519a98a4eaf2bb, type: 3}
+  m_Name: DwarvesFactionConfig
+  m_EditorClassIdentifier: 
+  _uid: e96a9dfa3f27d2a4eb12522fc6e5ae80
+  _factionUnits:
+  - {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+  - {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+  - {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+  - {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+  - {fileID: 11400000, guid: c46ba060ed5764849a1d147ddfedf80b, type: 2}
+  _factionProgress:
+  - cost: []
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 7
+      generationAmount: 1
+      generationSeconds: 180
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 6
+      generationAmount: 1
+      generationSeconds: 240
+    towerHealth: 1200
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 1400
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 2400
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 1
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 14
+      generationAmount: 1
+      generationSeconds: 180
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 12
+      generationAmount: 1
+      generationSeconds: 240
+    towerHealth: 1400
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 4000
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 6400
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 2
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 14
+      generationAmount: 1
+      generationSeconds: 180
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 12
+      generationAmount: 1
+      generationSeconds: 240
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 4
+      generationAmount: 1
+      generationSeconds: 600
+    towerHealth: 1600
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 5600
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 9600
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 1
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 180
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 240
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 6
+      generationAmount: 1
+      generationSeconds: 600
+    towerHealth: 1800
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 11200
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 19200
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 1
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 6
+      generationAmount: 1
+      generationSeconds: 480
+    towerHealth: 2000
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 24000
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 38400
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 3
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 18
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 6
+      generationAmount: 1
+      generationSeconds: 480
+    - config: {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+      limit: 4
+      generationAmount: 1
+      generationSeconds: 7200
+    towerHealth: 2200
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 25200
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 43200
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 1
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 25
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 22
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 10
+      generationAmount: 1
+      generationSeconds: 480
+    - config: {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+      limit: 8
+      generationAmount: 1
+      generationSeconds: 7200
+    towerHealth: 2400
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 33600
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 57600
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 1
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 25
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 22
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 10
+      generationAmount: 1
+      generationSeconds: 360
+    - config: {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+      limit: 8
+      generationAmount: 1
+      generationSeconds: 3600
+    towerHealth: 2600
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 52500
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 84000
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 4
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 25
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 22
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 10
+      generationAmount: 1
+      generationSeconds: 360
+    - config: {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+      limit: 8
+      generationAmount: 1
+      generationSeconds: 3600
+    - config: {fileID: 11400000, guid: c46ba060ed5764849a1d147ddfedf80b, type: 2}
+      limit: 3
+      generationAmount: 1
+      generationSeconds: 7200
+    towerHealth: 2800
+  - cost:
+    - currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+      count: 52500
+    - currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+      count: 84000
+    - currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+      count: 5
+    unitsData:
+    - config: {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+      limit: 28
+      generationAmount: 1
+      generationSeconds: 120
+    - config: {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+      limit: 24
+      generationAmount: 1
+      generationSeconds: 60
+    - config: {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}
+      limit: 16
+      generationAmount: 1
+      generationSeconds: 300
+    - config: {fileID: 11400000, guid: c9c5c6e2e00bea849bfb23c2e59b4646, type: 2}
+      limit: 12
+      generationAmount: 1
+      generationSeconds: 2400
+    - config: {fileID: 11400000, guid: c46ba060ed5764849a1d147ddfedf80b, type: 2}
+      limit: 6
+      generationAmount: 1
+      generationSeconds: 7200
+    towerHealth: 3000
+  _towerObject: {fileID: 4020024436184338919, guid: 7828a6b57a8ee0642ad4549064020220,
+    type: 3}
+  _townObject: {fileID: 6840580033762215556, guid: b0e954e7f7f9c974fa32b6bfe09ca7a2,
+    type: 3}
+  _factionType: 2
+  _factionIcon: {fileID: 21300000, guid: 4de891e11212e0c439cc314256e93f62, type: 3}
+  _factionBackground: {fileID: 21300000, guid: 4de891e11212e0c439cc314256e93f62, type: 3}
+  _factionName: "\u0642\u0628\u06CC\u0644\u0647 \u062F\u0648\u0631\u0641 \u0647\u0627"
+  _activeAbilityConfig: {fileID: 11400000, guid: c9b525fdabf2c614e9d9cdf4a354ef27,
+    type: 2}
+  _activeAbilityRange: 11
+  _activeAbilityCooldown: 9999
+  _activeAbilityManaCost: 5
+  _passiveAbilityConfig: {fileID: 11400000, guid: d4fe9fb9b977a2a4ca671fa2eac8184a,
+    type: 2}
+  _passiveAbilityRange: 6
+  _passiveAbilityCooldown: 1

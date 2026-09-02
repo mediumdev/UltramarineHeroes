@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c56578f44a7147aa82d1560f6bde681a, type: 3}
+  m_Name: DW_CavalryMovement
+  m_EditorClassIdentifier: 
+  _uid: 486ce80a3851dbb4f8ed8427761d21cb
+  _botAiType: 0
+  _BotAiUnitLowerBoundCounter: 0
+  _BotAiUnitUpperBoundCounter: 0
+  _botAiUnitLowerBoundOfMinimumCost: 0
+  _botAiUnitUpperBoundOfMinimumCost: 0
+  _type: 2
+  _name: 
+  _icon: {fileID: 0}
+  _targetType: 1
+  _fx: {fileID: 3168743112199385907, guid: 14c19b8e74da3b04692ef2d9708939f1, type: 3}
+  _fxPosition: {x: 0, y: 0, z: 0}
+  _fxScale: {x: 1, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _minSpeed: 12
+  _maxSpeed: 35
+  _chargeTime: 5

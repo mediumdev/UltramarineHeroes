@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: ee39db0714ad05b4186bd59c271dae95
+=======
+guid: c7b7818997c7348448ebab1e65193eef
+>>>>>>> ae70ebf (https://ultramarine-jira.atlassian.net/browse/UL-108 - fix bug animation for Balista)
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SorbonneBQCondensedMedium
+  fontNames:
+  - SorbonneBQCondensedMedium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571d7a01efe24edc985aa08a4c3d8f90, type: 3}
+  m_Name: QuestMeat_I.DailyQuestConfig
+  m_EditorClassIdentifier: 
+  _uid: f87f7de3e76820e439f33e636cc19328
+  _userDeck: {fileID: 11400000, guid: 493daa4fdda70fc419c477502bb35888, type: 2}
+  _botDeck: {fileID: 11400000, guid: 76db9a48fd823954aa31c4354eaa1aad, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: 19bbab7218bab624195d39664f683f69, type: 2}
+  _icon: {fileID: 21300000, guid: 9113ad4c42afc0c42ad8579083140eda, type: 3}
+  _description: "\u062A\u0627\u0645\u06CC\u0646 \u063A\u0630\u0627 \u0628\u0631\u0627\u06CC
+    \u0627\u0631\u062A\u0634 \u0636\u0631\u0648\u0631\u06CC\u0647"
+  _name: "\u0634\u06A9\u0627\u0631 \u06AF\u0648\u0634\u062A"

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: HL_Gryphon_Config
+  m_EditorClassIdentifier: 
+  _uid: b355e305a83d1b24684220dc6e81113e
+  _unitPrefab: {fileID: 4793352240444743927, guid: 181003c6712272e46ba4db15e4e3891a,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 233dda8f8aa306c4390a45fe861e684e, type: 3}
+  _name: "\u06AF\u0631\u06CC\u0641\u0648\u0646"
+  _description: "\u0646\u06AF\u0647\u0628\u0627\u0646\u0627\u0646 \u0622\u0633\u0645\u0627\u0646\u06CC"
+  _abilityDescription: "\u062D\u0645\u0644\u0647 \u0633\u0648\u0627\u0631\u0647 \u0646\u0638\u0627\u0645"
+  _loreText: "\u0645\u062E\u0644\u0648\u0642\u0627\u062A \u0627\u0635\u06CC\u0644
+    \u0628\u062F\u0648\u0646 \u062A\u0631\u0633 \u0648 \u0645\u0630\u0645\u062A"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 7
+  _maxCount: 3
+  _preloadCount: 3
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 0
+    _attackLineType: 00000000
+  _unitTags: 0000000004000000
+  _moveSpeed: 13
+  _attackRange: 2
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 515375550313584232, guid: 0991fe072e1bd7b449212f750377c690,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 165
+  _hitPoints: 665
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: d03b70d8d9709e0499e1f3502c7c61c4, type: 2}
+  - {fileID: 11400000, guid: 28f00917ce012fc45b196cda2c2d01de, type: 2}
+  _precastTime: 1.2
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0.5
+  _attackTime: 0.5
+  _attackSound: {fileID: 11400000, guid: 6b638c79d00ca844aa69888660c28ff3, type: 2}
+  _attackDelay: 0.1
+  _attackDuration: 1
+  _reloadTime: 0.3
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 10
+  _positionY: 10
+  _targetPointOffset: {x: 0, y: 0.5}

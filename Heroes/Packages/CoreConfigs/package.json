@@ -1,0 +1,13 @@
+{
+  "name": "com.ultramarine.configs",
+  "version": "1.0.0",
+  "displayName": "Core Configs",
+  "description": "Core configs system",
+  "unity": "2019.2",
+  "author": {
+    "name": "Ultramarine Games",
+    "url": "https://www.ultramarinegames.com"
+  },
+  "type": "library",
+  "hideInEditor": false
+}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402bc4f025bc40398d03bc2aafb9afe7, type: 3}
+  m_Name: DoTHotEffectConfig
+  m_EditorClassIdentifier: Assembly-CSharp:Configs.Effects:DoTHotEffectConfig
+  _uid: 98e99cafeabaf3f48855aad07a4eae20
+  _duration: 5
+  _tickDurationSeconds: 1
+  _endlessDuration: 0
+  _value: 1
+  _maxHealth: []
+  _health:
+  - type: 2
+    value: -10
+    isPercentValue: 0
+  _speed: []
+  _damage: []
+  _attackSpeed: []

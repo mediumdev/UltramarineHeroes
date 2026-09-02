@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cb11a063b3e4b4d980bf9bf8023ae4, type: 3}
+  m_Name: DarkAngelsTowerAbility
+  m_EditorClassIdentifier: 
+  _uid: c7de1082213f5a9478057645cf59dd09
+  _botAiType: 1
+  _BotAiUnitLowerBoundCounter: 2
+  _BotAiUnitUpperBoundCounter: 3
+  _botAiUnitLowerBoundOfMinimumCost: 3
+  _botAiUnitUpperBoundOfMinimumCost: 4
+  _type: 0
+  _name: "\u06A9\u0634\u062A\u0646 \u0646\u0632\u062F\u06CC\u06A9\u062A\u0631\u06CC\u0646"
+  _icon: {fileID: 0}
+  _targetType: 4
+  _fx: {fileID: 4559144976657245807, guid: 79f53c6e909aab741a458b63be317dad, type: 3}
+  _fxPosition: {x: 0.637, y: 0.5, z: 0.32}
+  _fxScale: {x: 0.20406, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _value: -1000
+  _isPercent: 0
+  _fxOnTarget: {fileID: 0}
+  _fxOnTargetPosition: {x: 0, y: 0, z: 0}

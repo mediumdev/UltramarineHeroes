@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0009d3248b3732a489b51378bf78cee6, type: 3}
+  m_Name: Purchases
+  m_EditorClassIdentifier: 
+  _uid: f1b6e961d83a10a49956182710ab80ff
+  Products:
+  - ProductId: de_sphere
+    ShopItemConfig: {fileID: 11400000, guid: 6058185c846081b44a57eaaf1faad934, type: 2}
+  - ProductId: dw_sphere
+    ShopItemConfig: {fileID: 11400000, guid: 4e19cc7eadba6824b9da1cff3d2eda34, type: 2}
+  - ProductId: hd_sphere
+    ShopItemConfig: {fileID: 11400000, guid: c44f7c1fbcf6ac04cbb3cbe999323a96, type: 2}
+  - ProductId: hl_sphere
+    ShopItemConfig: {fileID: 11400000, guid: 27550c9871af98e41baf11ff4fb2df20, type: 2}
+  - ProductId: hu_sphere
+    ShopItemConfig: {fileID: 11400000, guid: db37c3b97905e3f4d97790daea4c6c36, type: 2}
+  - ProductId: or_sphere
+    ShopItemConfig: {fileID: 11400000, guid: 07fdf9834b757b847a91b1cdf98d1f88, type: 2}
+  - ProductId: ud_sphere
+    ShopItemConfig: {fileID: 11400000, guid: a0420c0e68b53d4498f1786a235bf53b, type: 2}
+  - ProductId: gold_tier_1
+    ShopItemConfig: {fileID: 11400000, guid: f8283f2c89fec0144a6ecbba05e1fb4e, type: 2}
+  - ProductId: gold_tier_2
+    ShopItemConfig: {fileID: 11400000, guid: ab693d7bf779f64478fabe74601f80e0, type: 2}
+  - ProductId: gold_tier_3
+    ShopItemConfig: {fileID: 11400000, guid: 771ba3d1f1d73274988511aab9b771bf, type: 2}
+  - ProductId: meat_tier_1
+    ShopItemConfig: {fileID: 11400000, guid: f695cd75c4839ae41aae3300f1ec03b0, type: 2}
+  - ProductId: meat_tier_2
+    ShopItemConfig: {fileID: 11400000, guid: 60cf236e6b4c7214a9680ec5ce77801d, type: 2}
+  - ProductId: meat_tier_3
+    ShopItemConfig: {fileID: 11400000, guid: dc0c43779615f214286317eff37440f9, type: 2}
+  - ProductId: crystal_tier1
+    ShopItemConfig: {fileID: 11400000, guid: 308348e36894be541805d0655e77b55d, type: 2}
+  - ProductId: crystal_tier2
+    ShopItemConfig: {fileID: 11400000, guid: 1a585375471053a4bae773ebcf1616ea, type: 2}
+  - ProductId: crystal_tier3
+    ShopItemConfig: {fileID: 11400000, guid: d7ef88d1f9e9d394680cb21dff614e32, type: 2}
+  - ProductId: crystal_tier4
+    ShopItemConfig: {fileID: 11400000, guid: 54abd24147aea634aa637258814d59bf, type: 2}
+  - ProductId: crystal_tier5
+    ShopItemConfig: {fileID: 11400000, guid: e1d5e770b70d3ad479b3979076fb5a7a, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eebcea442cd48645a8d8741ed880e4c, type: 3}
+  m_Name: AddManaAfterDeathEffect
+  m_EditorClassIdentifier: 
+  _uid: f1f64df82cd76954791cfd20947c46ab
+  _duration: 0
+  _tickDurationSeconds: 0
+  _endlessDuration: 1
+  _value: 0
+  _maxHealth: []
+  _health: []
+  _speed: []
+  _damage: []
+  _attackSpeed: []
+  _ability: {fileID: 11400000, guid: a843af4839909f441acb72bca8301f45, type: 2}
+  _needTarget: 0

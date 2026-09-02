@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30c5a4f636e411ca0834584c58f9035, type: 3}
+  m_Name: Fight68.CampaignGameConfig
+  m_EditorClassIdentifier: 
+  _uid: fd87e43dc48101f45ae99b70033abdaa
+  _botDeck: {fileID: 11400000, guid: c293c80d3c188724481ed1a3931885d5, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: 585b4fb5e1e71c149a9117209868f299, type: 2}
+  _botDifficulty: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2747d0b2aa704d7f91f7f48b2ebc2cdc, type: 3}
+  m_Name: Crystals.CurrencyConfig
+  m_EditorClassIdentifier: 
+  _uid: 3ed60ab33a74e1e4482bfa3c14a56487
+  _title: Crystals
+  _description: "\u0645\u0647\u0645\u062A\u0631\u06CC\u0646 \u0645\u0646\u0628\u0639"
+  _icon: {fileID: 21300000, guid: fefbe033a563b6a4b8139449a9c9d4d2, type: 3}
+  _descriptionIcon: {fileID: 0}
+  _rarity: 4
+  maxValue: 99000
+  currencyType: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2ba8b9dfcdb417cac7994e54efc6700, type: 3}
+  m_Name: PVE_reward_57
+  m_EditorClassIdentifier: 
+  _uid: ff9623218c813c14489091c77a8b1290
+  _rewardLists:
+  - rewards:
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+        rangeBottom: 1500
+        rangeTop: 1500
+      weight: 1
+  - rewards:
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+        rangeBottom: 2000
+        rangeTop: 2000
+      weight: 1

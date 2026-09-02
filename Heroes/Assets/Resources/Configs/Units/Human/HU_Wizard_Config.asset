@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: HU_Wizard_Config
+  m_EditorClassIdentifier: 
+  _uid: da6d3abce3edc8f45bccc542b6ffd3e8
+  _unitPrefab: {fileID: -5120882938918379715, guid: 496851cc89592e641b0246b0d451d6e3,
+    type: 3}
+  _icon: {fileID: 21300000, guid: e2bd2536b7420234190e10eb09f9cfe4, type: 3}
+  _name: "\u062C\u0627\u062F\u0648\u06AF\u0631"
+  _description: "\u0627\u062A\u062D\u0627\u062F \u0627\u0646\u0633\u0627\u0646 \u0647\u0627"
+  _abilityDescription: "\u062F\u0631 \u0647\u0631 \u062E\u0637\u060C \u06CC\u06A9
+    \u0639\u0646\u0635\u0631 \u0631\u0648 \u0627\u062D\u0636\u0627\u0631 \u0645\u06CC\u06A9\u0646\u0647"
+  _loreText: "\u062D\u0627\u0641\u0638 \u062E\u0631\u062F \u0648 \u062F\u0627\u0646\u0634
+    \u067E\u0646\u0647\u0627\u0646"
+  _unitSummon: {fileID: 11400000, guid: 19e6088781e257747883a03019aebf98, type: 2}
+  _isMercenary: 0
+  _cost: 9
+  _maxCount: 2
+  _preloadCount: 2
+  _isInfinite: 0
+  _unitSize: 1
+  _setupProperties:
+  - _setupType: 1
+    _attackLineType: 01000000
+  _unitTags: 03000000
+  _moveSpeed: 7
+  _attackRange: 3
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: 13351e814581bb14f9161e1a41dc8a84,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 100
+  _hitPoints: 300
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: 87befc1720a86094f8416c207602ad0a, type: 2}
+  - {fileID: 11400000, guid: b9f676dc2a2329049889ac147b69c53a, type: 2}
+  - {fileID: 11400000, guid: b85bfa45dff74c24ca66629d59d82435, type: 2}
+  _precastTime: 1
+  _precastSound: {fileID: 11400000, guid: 6561fffda48862341a2c0a0b932babf1, type: 2}
+  _precastDelay: 0.53
+  _precastDuration: 1
+  _cavalryAttackTime: 0
+  _attackTime: 0.3
+  _attackSound: {fileID: 0}
+  _attackDelay: 0
+  _attackDuration: 1
+  _reloadTime: 0.7
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 0
+  _positionY: 60
+  _targetPointOffset: {x: 0, y: 0.75}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30c5a4f636e411ca0834584c58f9035, type: 3}
+  m_Name: Fight25.CampaignGameConfig
+  m_EditorClassIdentifier: 
+  _uid: c63e0773e2cf0ab4a90b71486a005ffa
+  _botDeck: {fileID: 11400000, guid: 902881bf388b49240b9e4cc0dc7e81db, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: 3cf1df379b110ca48934823114f0781e, type: 2}
+  _botDifficulty: 1

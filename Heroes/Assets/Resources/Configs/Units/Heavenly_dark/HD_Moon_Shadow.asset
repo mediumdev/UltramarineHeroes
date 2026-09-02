@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: HD_Moon_Shadow
+  m_EditorClassIdentifier: 
+  _uid: 1a61fb290595a504dbe48887cf42f560
+  _unitPrefab: {fileID: 7866872120498166787, guid: 7efc3247009e8e44bb100867710f754f,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 5025636d27058474e98bea56207e90f1, type: 3}
+  _name: "\u0633\u0627\u06CC\u0647 \u0645\u0627\u0647"
+  _description: "\u0627\u0634\u0628\u0627\u062D \u0634\u0628"
+  _abilityDescription: "\u0628\u062F\u0648\u0646 \u0642\u0627\u0628\u0644\u06CC\u062A"
+  _loreText: "\u0631\u0648\u062D \u062E\u0633\u062A\u06AF\u06CC \u0646\u0627\u067E\u0630\u06CC\u0631
+    \u0645\u0647\u062A\u0627\u0628"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 2
+  _maxCount: 10
+  _preloadCount: 15
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 0
+    _attackLineType: 00000000
+  _unitTags: 0100000004000000
+  _moveSpeed: 13
+  _attackRange: 3
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: 578b298ac71a7a845b430406ea489d33,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 35
+  _hitPoints: 100
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 1.1
+  _precastSound: {fileID: 11400000, guid: 09fa0e9c41998c64b834769045ad3064, type: 2}
+  _precastDelay: 1
+  _precastDuration: 1
+  _cavalryAttackTime: 0
+  _attackTime: 0.4
+  _attackSound: {fileID: 0}
+  _attackDelay: 0
+  _attackDuration: 0
+  _reloadTime: 0.5
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 5
+  _positionY: 5
+  _targetPointOffset: {x: 0, y: 0.45}

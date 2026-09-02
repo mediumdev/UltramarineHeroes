@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: DM_Succubus_Config
+  m_EditorClassIdentifier: 
+  _uid: 53d642e465ae08341b42ffe19de3dde4
+  _unitPrefab: {fileID: 6339815063873506894, guid: e82cb8da53c92824686c7524fbeeee47,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 57b73d25e70d7e44b940c461d88e08a4, type: 3}
+  _name: "\u0633\u0648\u06A9\u0648\u0628\u0648\u0633"
+  _description: "\u0644\u0698\u06CC\u0648\u0646 \u0627\u0634\u0631\u0627\u0631"
+  _abilityDescription: "\u062D\u0645\u0644\u0647 \u0632\u0646\u062C\u06CC\u0631\u0647
+    \u0627\u06CC"
+  _loreText: "\u0627\u0647\u0631\u06CC\u0645\u0646\u06CC \u0642\u062F\u0631\u062A\u0645\u0646\u062F
+    \u06A9\u0647 \u0628\u0647 \u062E\u0648\u0628\u06CC \u062F\u0631 \u0647\u0646\u0631
+    \u0622\u062A\u0634 \u0628\u06CC\u0646\u06CC \u0622\u0634\u0646\u0627\u0633\u062A"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 8
+  _maxCount: 3
+  _preloadCount: 3
+  _isInfinite: 0
+  _unitSize: 1
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 02000000
+  - _setupType: 1
+    _attackLineType: 01000000
+  _unitTags: 01000000
+  _moveSpeed: 10
+  _attackRange: 4
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: e5518d26f51a1b940a2712b89233c210,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 110
+  _hitPoints: 330
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: 97b1f41c9bc3f8149a0b7c907129d9a3, type: 2}
+  _precastTime: 1.1
+  _precastSound: {fileID: 11400000, guid: e7e46e5171e363d4a89bf6ce5d7feb48, type: 2}
+  _precastDelay: 1
+  _precastDuration: 1
+  _cavalryAttackTime: 0
+  _attackTime: 0.3
+  _attackSound: {fileID: 0}
+  _attackDelay: 0
+  _attackDuration: 0
+  _reloadTime: 0.6
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: -10
+  _positionY: 60
+  _targetPointOffset: {x: 0, y: 0.68}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: Orc_Sapper_Configs
+  m_EditorClassIdentifier: 
+  _uid: 2d24e000e9607104eb0ec24eb67ddde6
+  _unitPrefab: {fileID: 6930799795342832450, guid: f38132ec775d14a4baf8ecc184d297ce,
+    type: 3}
+  _icon: {fileID: 21300000, guid: b65dfe4414e62db4ab740316e765c186, type: 3}
+  _name: "\u0633\u0627\u067E\u0631"
+  _description: "\u06AF\u0644\u0647 \u0627\u0648\u0631\u06A9 \u0647\u0627"
+  _abilityDescription: "\u0628\u0645\u0628\u0647\u0627\u06CC \u0645\u0631\u06AF\u0628\u0627\u0631
+    \u06A9\u0627\u0631 \u0645\u06CC\u0630\u0627\u0631\u0647"
+  _loreText: "\u0639\u0627\u0634\u0642 \u062A\u0644\u0647 \u06AF\u0630\u0627\u0631\u06CC\u0647\u060C
+    \u0628\u0645\u0628\u0647\u0627\u06CC\u06CC \u06A9\u0627\u0631 \u0645\u06CC\u0630\u0627\u0631\u0647
+    \u06A9\u0647 \u062D\u062A\u06CC \u067E\u0633 \u0627\u0632 \u0645\u0631\u06AF\u0634
+    \u0647\u0645 \u0628\u0647 \u0634\u062F\u0645\u0646 \u0622\u0633\u06CC\u0628 \u0645\u06CC\u0632\u0646\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 5
+  _maxCount: 4
+  _preloadCount: 4
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 1
+    _attackLineType: 01000000
+  - _setupType: 2
+    _attackLineType: 02000000
+  _unitTags: 01000000
+  _moveSpeed: 11
+  _attackRange: 1
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 515375550313584232, guid: 0991fe072e1bd7b449212f750377c690,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 35
+  _hitPoints: 145
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: 79023d970ea61ac48bb043a3c9aa61ce, type: 2}
+  - {fileID: 11400000, guid: 71b424660c3f4184fa9729f7aaa20742, type: 2}
+  _precastTime: 0
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 0.9
+  _attackSound: {fileID: 11400000, guid: 33d20360ce85d8e4e8ff35897f3aaca7, type: 2}
+  _attackDelay: 0.5
+  _attackDuration: 1
+  _reloadTime: 1.1
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 5
+  _positionY: 10
+  _targetPointOffset: {x: 0, y: 0.52}

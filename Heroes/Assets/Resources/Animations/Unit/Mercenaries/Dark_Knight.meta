@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Heroes/Assets/Resources/Animations/Unit/Mercenaries/DK.meta
+guid: f141ae71f76be8a42b014360ff391754
+========
+guid: d4cd832fb37246440aa3c06d5ce7d666
+>>>>>>>> af186d63 (# 106 -  Прочее ---> Подключение звуков атаки (юниты)):Heroes/Assets/Resources/Prefabs/FX/FX_tower.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

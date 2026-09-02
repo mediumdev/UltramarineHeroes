@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15bf329ca659c24d853a6e8ee313907, type: 3}
+  m_Name: UD_Skeleton_Attack_Sound
+  m_EditorClassIdentifier: 
+  _uid: 36156dec59cb58e4a86c8f9e29b7728f
+  _clips:
+  - {fileID: 8300000, guid: 55e4586715d8a8f46bb0ebdb601d3424, type: 3}
+  _maxClipsInBackground: 10
+  _volume: 0.5
+  _loop: 0
+  _static: 0

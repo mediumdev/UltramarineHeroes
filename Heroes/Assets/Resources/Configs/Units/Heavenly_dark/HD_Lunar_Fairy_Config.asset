@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: HD_Lunar_Fairy_Config
+  m_EditorClassIdentifier: 
+  _uid: 04069aae09e373b499446105d4668559
+  _unitPrefab: {fileID: 400401316020668044, guid: c151fb9cefdc66846a7ecc2d65271b96,
+    type: 3}
+  _icon: {fileID: 21300000, guid: d50f9203d33df7443b41bb8aba9d4098, type: 3}
+  _name: "\u067E\u0631\u06CC \u0644\u0648\u0646\u0627\u0631"
+  _description: "\u0627\u0634\u0628\u0627\u062D \u0634\u0628"
+  _abilityDescription: "\u0628\u062F\u0648\u0646 \u0642\u0627\u0628\u0644\u06CC\u062A"
+  _loreText: "\u062C\u0627\u062F\u0648\u06CC \u062A\u06CC\u0631\u0627\u0646\u062F\u0627\u0632\u06CC
+    \u0634\u06A9\u0646\u0646\u062F\u0647 \u0627\u0645\u0627 \u0686\u0627\u0628\u06A9"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 5
+  _maxCount: 4
+  _preloadCount: 4
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 0
+    _attackLineType: 0000000001000000
+  _unitTags: 0100000004000000
+  _moveSpeed: 12
+  _attackRange: 4
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: 578b298ac71a7a845b430406ea489d33,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 70
+  _hitPoints: 215
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 0.4
+  _precastSound: {fileID: 11400000, guid: bfba9f7c44adb9e47a3d6bd4fc10aa23, type: 2}
+  _precastDelay: 0.4
+  _precastDuration: 1
+  _cavalryAttackTime: 0
+  _attackTime: 0.4
+  _attackSound: {fileID: 0}
+  _attackDelay: 0
+  _attackDuration: 0
+  _reloadTime: 1.2
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: -5
+  _positionY: 15
+  _targetPointOffset: {x: 0, y: 0.62}

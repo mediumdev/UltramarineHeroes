@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: DM_Evil_Eye_Config
+  m_EditorClassIdentifier: 
+  _uid: 9141964290fc2eb40af7995a07b2210e
+  _unitPrefab: {fileID: 6480627195018488992, guid: 45c95175376661545b94841b32e28ced,
+    type: 3}
+  _icon: {fileID: 21300000, guid: c06b17c3b027d3f41a24214a3d6dc751, type: 3}
+  _name: "\u0686\u0634\u0645 \u0627\u0647\u0631\u06CC\u0645\u0646\u06CC"
+  _description: "\u0644\u0698\u06CC\u0648\u0646 \u0627\u0634\u0631\u0627\u0631"
+  _abilityDescription: "\u062F\u0634\u0645\u0646 \u0631\u0648 \u0622\u062A\u0634
+    \u0645\u06CC\u0632\u0646\u0647"
+  _loreText: "\u062F\u0634\u0645\u0646 \u0631\u0648 \u0628\u0627 \u067E\u0631\u062A\u0648
+    \u0622\u062A\u0634\u06CC\u0646 \u0634\u06A9\u0633\u062A \u0645\u06CC\u062F\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 5
+  _maxCount: 4
+  _preloadCount: 4
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 02000000
+  - _setupType: 0
+    _attackLineType: 00000000
+  _unitTags: 0200000004000000
+  _moveSpeed: 10
+  _attackRange: 4
+  _attackType: 3
+  _projectile: {fileID: 3646180382821969756, guid: 255eeabe282be8a4fa51daa299d3ab49,
+    type: 3}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0, z: 0}
+  _damage: 60
+  _hitPoints: 180
+  _immortalTime: 0
+  _abilities: []
+  _precastTime: 0.6
+  _precastSound: {fileID: 11400000, guid: 7276dc5749aba43408f070d516f0a69e, type: 2}
+  _precastDelay: 0.4
+  _precastDuration: 1
+  _cavalryAttackTime: 0
+  _attackTime: 0.3
+  _attackSound: {fileID: 0}
+  _attackDelay: 0
+  _attackDuration: 0
+  _reloadTime: 1.1
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: -5
+  _positionY: 40
+  _targetPointOffset: {x: 0, y: 0.4}

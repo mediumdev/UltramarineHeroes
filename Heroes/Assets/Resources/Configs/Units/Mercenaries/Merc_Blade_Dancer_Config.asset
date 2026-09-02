@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: Merc_Blade_Dancer_Config
+  m_EditorClassIdentifier: 
+  _uid: 7015d57833371164a8292f1fca015f3b
+  _unitPrefab: {fileID: 6441612928199928453, guid: fafb2d599789ec94cb46db098d6c2fd8,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 7db8eb8e0c180354bac71c934a036f92, type: 3}
+  _name: "\u0631\u0627\u0645\u0634\u06AF\u0631 \u062A\u06CC\u063A"
+  _description: "\u0645\u0632\u062F\u0648\u0631"
+  _abilityDescription: "\u0647\u0631 \u0633\u0648\u0645\u06CC\u0646 \u0636\u0631\u0628\u0647\u060C
+    \u062F\u0634\u0645\u0646 \u0631\u0648 \u06AF\u06CC\u062C \u0645\u06CC\u06A9\u0646\u0647"
+  _loreText: "\u0628\u0647\u062A\u0631\u06CC\u0646 \u0631\u0627\u0645\u0634\u06AF\u0631
+    \u062F\u0631 \u0642\u0644\u0645\u0631\u0648 \u0648 \u06CC\u06A9 \u062C\u0627\u0633\u0648\u0633
+    \u0628\u0627\u0647\u0648\u0634"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 1
+  _cost: 5
+  _maxCount: 5
+  _preloadCount: 5
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 2
+    _attackLineType: 
+  - _setupType: 1
+    _attackLineType: 
+  _unitTags: 
+  _moveSpeed: 15
+  _attackRange: 1
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 0}
+  _attackFxPosition: {x: 0, y: 0.5, z: 0}
+  _damage: 145
+  _hitPoints: 575
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: 3927595cd57762147ae36bfbf1fe971f, type: 2}
+  _precastTime: 0.4
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 1.4
+  _attackSound: {fileID: 11400000, guid: 507d10e3c501225419ecd3823dae0f25, type: 2}
+  _attackDelay: 1
+  _attackDuration: 1
+  _reloadTime: 0.4
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 0
+  _positionY: 40
+  _targetPointOffset: {x: 0, y: 0.5}

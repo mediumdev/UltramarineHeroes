@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5506f86a4e753b4a94a44f02703da1c, type: 3}
+  m_Name: DefaultFactionDeckConfig
+  m_EditorClassIdentifier: 
+  _uid: cb8771c43999ad548adad87ecaf81d6a
+  _useShuffle: 1
+  _airFactions:
+  - {fileID: 11400000, guid: f6b78137060e52b469949213fd15dcbc, type: 2}
+  - {fileID: 11400000, guid: d194f6c3eee04f941aa458eed43f28ac, type: 2}
+  _groundFactions:
+  - {fileID: 11400000, guid: 4159f6dcf3460cb4194e1fc775d4cb4a, type: 2}
+  - {fileID: 11400000, guid: cd2e8a8c77bd6a447b328a06ff313455, type: 2}
+  - {fileID: 11400000, guid: 85884483f25649048bb7c1f359360b66, type: 2}
+  _undergroundFactions:
+  - {fileID: 11400000, guid: ea18c2482e4ab4b4eb0543b01874a07b, type: 2}
+  - {fileID: 11400000, guid: e96a9dfa3f27d2a4eb12522fc6e5ae80, type: 2}

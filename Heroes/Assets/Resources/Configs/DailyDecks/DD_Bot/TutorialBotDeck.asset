@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d7fe9c1e7a4f81a2ad536ff6e2effd, type: 3}
+  m_Name: TutorialBotDeck
+  m_EditorClassIdentifier: 
+  _uid: 2e3b8ae6409e7914aba098b6af50d6ac
+  units:
+  - faction: {fileID: 11400000, guid: d194f6c3eee04f941aa458eed43f28ac, type: 2}
+    units:
+    - {fileID: 11400000, guid: 1bc9a8484e3989540827b84bb5679559, type: 2}
+  - faction: {fileID: 11400000, guid: 85884483f25649048bb7c1f359360b66, type: 2}
+    units:
+    - {fileID: 11400000, guid: 184c10fc3d7a97e4db27fd5ce0896b06, type: 2}
+  - faction: {fileID: 11400000, guid: ea18c2482e4ab4b4eb0543b01874a07b, type: 2}
+    units:
+    - {fileID: 11400000, guid: bf9ac47b58d6da74e90e56b5271e3200, type: 2}

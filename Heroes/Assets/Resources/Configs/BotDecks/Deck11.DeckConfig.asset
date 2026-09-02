@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d7fe9c1e7a4f81a2ad536ff6e2effd, type: 3}
+  m_Name: Deck11.DeckConfig
+  m_EditorClassIdentifier: 
+  _uid: 18a0816b0468d304f96225d7c4db1504
+  units:
+  - faction: {fileID: 11400000, guid: d194f6c3eee04f941aa458eed43f28ac, type: 2}
+    units:
+    - {fileID: 11400000, guid: 1a61fb290595a504dbe48887cf42f560, type: 2}
+    - {fileID: 11400000, guid: 7c8a0a4dcbd2f3947a383ff18c8c4b16, type: 2}
+  - faction: {fileID: 11400000, guid: cd2e8a8c77bd6a447b328a06ff313455, type: 2}
+    units:
+    - {fileID: 11400000, guid: a86a7bc6ae7c3c04c876a4b9108298b8, type: 2}
+    - {fileID: 11400000, guid: 921244902f7494e4fa170e9b7e5d04b5, type: 2}
+  - faction: {fileID: 11400000, guid: ea18c2482e4ab4b4eb0543b01874a07b, type: 2}
+    units:
+    - {fileID: 11400000, guid: 79443f433d407e242aabb96ae2de088c, type: 2}
+    - {fileID: 11400000, guid: aff98bc97569418418eafeefe77189a1, type: 2}

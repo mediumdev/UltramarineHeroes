@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f274b4b842ad4e3ebe42b9afba54c270, type: 3}
+  m_Name: DamageTowerEffect
+  m_EditorClassIdentifier: 
+  _uid: 4c7b3a25d4566974c95b10baab178758
+  _duration: 0
+  _tickDurationSeconds: 0
+  _endlessDuration: 1
+  _value: 0
+  _maxHealth: []
+  _health:
+  - type: 2
+    value: -300
+    isPercentValue: 1
+  _speed: []
+  _damage: []
+  _attackSpeed: []

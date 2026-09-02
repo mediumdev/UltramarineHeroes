@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2ba8b9dfcdb417cac7994e54efc6700, type: 3}
+  m_Name: PVP_RewardConfig
+  m_EditorClassIdentifier: 
+  _uid: a019ea88cbeb1584db033946ac02c2e1
+  _rewardLists:
+  - rewards:
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: 44c0f98dd0d64e04d96596752a79c136, type: 2}
+        rangeBottom: 300
+        rangeTop: 600
+      weight: 1
+  - rewards:
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: bcc02485fba6c8744af9a6b9dc5fce90, type: 2}
+        rangeBottom: 400
+        rangeTop: 800
+      weight: 1
+  - rewards:
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: ba816e450452fcb469c756a222ccdd99, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: 76e656394c071a04d8cc6dec8bd38e97, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: 624e2129877b2e64e8d0a152583d8500, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: ea2b53cf949a3344baf576675952110f, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: cfe586d702c0b8a448d6dec754ee568b, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: fcf7ad1e4cbd37a4aad56229956c1d8f, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 11400000, guid: aa4dad21d7955b546b3d21039be089a3, type: 2}
+        rangeBottom: 1
+        rangeTop: 1
+      weight: 1
+    - currencyRewardWithRange:
+        currency: {fileID: 0}
+        rangeBottom: 0
+        rangeTop: 0
+      weight: 3

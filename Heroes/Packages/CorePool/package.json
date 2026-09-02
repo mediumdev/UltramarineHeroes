@@ -1,0 +1,15 @@
+{
+  "name": "com.londreik.pool",
+  "version": "1.0.0",
+  "displayName": "Core Pool",
+  "description": "Core generic pool",
+  "unity": "2019.2",
+  "author": {
+    "name": "Londreik"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.ultramarine.utils": "1.0.0"
+  }
+}

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e7f3444a85893488ca31579b778c1a, type: 3}
+  m_Name: UD_Wraith_Maiden_Configs
+  m_EditorClassIdentifier: 
+  _uid: 7801512063c37564e991abda487e867b
+  _unitPrefab: {fileID: 8889564135136534356, guid: 335efd16d9e6a93438dcbb8f497f68c0,
+    type: 3}
+  _icon: {fileID: 21300000, guid: 92c79611a172af24a86574a25089f10f, type: 3}
+  _name: "\u062F\u0648\u0634\u06CC\u0632\u0647 \u062E\u06CC\u0627\u0644"
+  _description: "\u0627\u0626\u062A\u0644\u0627\u0641 \u0646\u0627\u0645\u06CC\u0631\u0627"
+  _abilityDescription: "\u067E\u0633 \u0627\u0632 \u0645\u0631\u06AF\u060C \u062F\u0634\u0645\u0646
+    \u0631\u0648 \u0628\u0647 \u0639\u0642\u0628 \u0645\u06CC\u0631\u0648\u0646\u0647"
+  _loreText: "\u062F\u0631 \u0647\u0631 \u06A9\u0633\u06CC \u06A9\u0647 \u06AF\u0631\u06CC\u0647
+    \u0645\u0631\u06AF\u0628\u0627\u0631\u0634 \u0631\u0648 \u0645\u06CC\u0634\u0646\u0648\u0647
+    \u062A\u0631\u0633 \u0627\u0644\u0642\u0627 \u0645\u06CC\u06A9\u0646\u0647"
+  _unitSummon: {fileID: 0}
+  _isMercenary: 0
+  _cost: 5
+  _maxCount: 4
+  _preloadCount: 4
+  _isInfinite: 0
+  _unitSize: 0
+  _setupProperties:
+  - _setupType: 1
+    _attackLineType: 01000000
+  _unitTags: 03000000
+  _moveSpeed: 11
+  _attackRange: 1
+  _attackType: 2
+  _projectile: {fileID: 0}
+  _attackFx: {fileID: 515375550313584232, guid: 0991fe072e1bd7b449212f750377c690,
+    type: 3}
+  _attackFxPosition: {x: 0, y: 0.533, z: 0}
+  _damage: 110
+  _hitPoints: 430
+  _immortalTime: 0
+  _abilities:
+  - {fileID: 11400000, guid: 54dacb03f162fb944b5e0b7958e8ea37, type: 2}
+  _precastTime: 0
+  _precastSound: {fileID: 0}
+  _precastDelay: 0
+  _precastDuration: 0
+  _cavalryAttackTime: 0
+  _attackTime: 1.2
+  _attackSound: {fileID: 11400000, guid: 06818cb9159f92a409a8f2a70d1c9bc4, type: 2}
+  _attackDelay: 0.903
+  _attackDuration: 1
+  _reloadTime: 0.8
+  _reloadSound: {fileID: 0}
+  _reloadDelay: 0
+  _reloadDuration: 0
+  _positionX: 0
+  _positionY: 50
+  _targetPointOffset: {x: 0, y: 0.75}

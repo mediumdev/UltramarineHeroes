@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571d7a01efe24edc985aa08a4c3d8f90, type: 3}
+  m_Name: WarrioressRevenge.DailyQuestConfig
+  m_EditorClassIdentifier: 
+  _uid: 81a061689c5b3f542b4f5cb7b23802e2
+  _userDeck: {fileID: 11400000, guid: ff47a2fb007ba7548913f807d522a652, type: 2}
+  _botDeck: {fileID: 11400000, guid: a5487c67002e2094aab9fd3a41b0ee97, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: 8c7d11d24e2391d44b3c91bc10ce54fc, type: 2}
+  _icon: {fileID: 21300000, guid: 39ce89b23d8ccca48b69fe0c8a49db44, type: 3}
+  _description: "\u062C\u0646\u06AF\u062C\u0648\u06CC\u0627\u0646 \u0634\u062C\u0627\u0639
+    \u062F\u0631 \u062F\u0641\u0627\u0639 \u0647\u0633\u062A\u0646"
+  _name: "\u0627\u0646\u062A\u0642\u0627\u0645 \u062C\u0646\u06AF\u062C\u0648"

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Heroes/Assets/Resources/Configs/Currency.meta
+guid: 1850de543b24a1d4bbffaca7d42be422
+========
+guid: 6230480abbcc35c44a4380ec63b04325
+>>>>>>>> 9b05573e (https://ultramarine-jira.atlassian.net/browse/UL-148 - Мелкие правки):Heroes/Assets/Scripts/Game/Sound.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

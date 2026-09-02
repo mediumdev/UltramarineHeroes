@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571d7a01efe24edc985aa08a4c3d8f90, type: 3}
+  m_Name: DemonicRebellion.DailyQuestConfig
+  m_EditorClassIdentifier: 
+  _uid: d116b691ebbcd7d4eb21989bcc810e3d
+  _userDeck: {fileID: 11400000, guid: 7670b8616e3e2f1448c5c859da23b5d4, type: 2}
+  _botDeck: {fileID: 11400000, guid: a7290e900a0d69344a9b8bef49664caa, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: cca2f67488a2f8d469174e2955583d77, type: 2}
+  _icon: {fileID: 21300000, guid: 88eed73dbceceae409185cfcfeb34fed, type: 3}
+  _description: "\u0627\u0646\u0628\u0648\u0647\u06CC \u0627\u0632 \u0627\u0634\u0631\u0627\u0631
+    \u0639\u0644\u06CC\u0647 \u0638\u0644\u0645 \u0627\u0631\u0628\u0627\u0628 \u062E\u0648\u062F
+    \u0634\u0648\u0631\u0634 \u0645\u06CC\u06A9\u0646\u0646"
+  _name: "\u0634\u0648\u0631\u0634 \u0634\u0631\u0648\u0631\u0627\u0646\u0647"

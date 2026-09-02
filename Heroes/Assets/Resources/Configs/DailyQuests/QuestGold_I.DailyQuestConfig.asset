@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571d7a01efe24edc985aa08a4c3d8f90, type: 3}
+  m_Name: QuestGold_I.DailyQuestConfig
+  m_EditorClassIdentifier: 
+  _uid: 0a6f168b8aa30a5478d94c1c6bccd068
+  _userDeck: {fileID: 11400000, guid: 493daa4fdda70fc419c477502bb35888, type: 2}
+  _botDeck: {fileID: 11400000, guid: 76db9a48fd823954aa31c4354eaa1aad, type: 2}
+  _rewards:
+  - {fileID: 11400000, guid: dd8298db3a61d2d4d8a3b5aca0d31833, type: 2}
+  _icon: {fileID: 21300000, guid: ec652770f23d7b04686c5b5522aaefa4, type: 3}
+  _description: "\u0642\u0644\u0645\u0631\u0648\u0647\u0627 \u0628\u0631\u0627\u06CC
+    \u067E\u06CC\u0634\u0631\u0641\u062A \u0628\u0647 \u0637\u0644\u0627\u06CC \u0628\u06CC\u0634\u062A\u0631\u06CC
+    \u0646\u06CC\u0627\u0632 \u062F\u0627\u0631\u0646"
+  _name: "\u0627\u0633\u062A\u062E\u0631\u0627\u062C \u0637\u0644\u0627"

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eebcea442cd48645a8d8741ed880e4c, type: 3}
+  m_Name: SpawnOnDeathEffectConfig
+  m_EditorClassIdentifier: 
+  _uid: 560cd6e78f0630b49b13e06cfa9cdc9b
+  _duration: 0
+  _tickDurationSeconds: 0
+  _endlessDuration: 1
+  _value: 0
+  _maxHealth: []
+  _health: []
+  _speed: []
+  _damage: []
+  _attackSpeed: []
+  _ability: {fileID: 11400000, guid: a2ac0a805c36c9e4fb53d78bd0f7931d, type: 2}
+  _needTarget: 1

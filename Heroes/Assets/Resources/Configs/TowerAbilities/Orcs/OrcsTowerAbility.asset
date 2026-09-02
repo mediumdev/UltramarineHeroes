@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f02a37b880eab45a7c886a3f3de2cd, type: 3}
+  m_Name: OrcsTowerAbility
+  m_EditorClassIdentifier: 
+  _uid: e5b0275b0796c584bb77a7b03fd202d4
+  _botAiType: 2
+  _BotAiUnitLowerBoundCounter: 2
+  _BotAiUnitUpperBoundCounter: 3
+  _botAiUnitLowerBoundOfMinimumCost: 3
+  _botAiUnitUpperBoundOfMinimumCost: 4
+  _type: 1
+  _name: "\u062A\u062E\u0641\u06CC\u0641"
+  _icon: {fileID: 21300000, guid: 76b9954d82db73045acabee9303cf08a, type: 3}
+  _targetType: 3
+  _fx: {fileID: 4559144976657245807, guid: 77d2f8100df3a934aa6f15878a930d01, type: 3}
+  _fxPosition: {x: 0.615, y: -0.459, z: 0}
+  _fxScale: {x: 0.19, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _manaDiscount: 2

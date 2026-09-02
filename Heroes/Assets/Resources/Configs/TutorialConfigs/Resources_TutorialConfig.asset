@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ecc0362cfbe07d4a8b2b611e1d92b7b, type: 3}
+  m_Name: Resources_TutorialConfig
+  m_EditorClassIdentifier: 
+  _uid: 5288d9d60c207d345a029803fdda4a8c
+  _dialogIcon: {fileID: 0}
+  _dialogSide: 0
+  _dialogText: 
+  _object: {fileID: 0}
+  _logEvent: 

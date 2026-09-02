@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e00ddcde56966b42b02182609ce6520, type: 3}
+  m_Name: OR_Sphere_Shopitem
+  m_EditorClassIdentifier: 
+  _uid: 07fdf9834b757b847a91b1cdf98d1f88
+  _item: {fileID: 11400000, guid: fcf7ad1e4cbd37a4aad56229956c1d8f, type: 2}
+  _productCount: 1
+  _productPrice: 1000
+  _productPriceInCry: 1
+  _currencyToPay: {fileID: 11400000, guid: 3ed60ab33a74e1e4482bfa3c14a56487, type: 2}
+  _isDiscount: 0
+  _discountPercent: 0
+  _storeKey: or_sphere
+  _icon: {fileID: 21300000, guid: 7f38ee8df95f81d4b8059ffb30402057, type: 3}
+  _background: {fileID: 0}

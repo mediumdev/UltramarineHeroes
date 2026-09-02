@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3485c6a020c5a774ba4705b9903d0e64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _entryFxPlayer: {instanceID: 0}
+  - _entryFxEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

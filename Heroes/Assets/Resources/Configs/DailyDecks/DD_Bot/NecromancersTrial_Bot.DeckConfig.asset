@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d7fe9c1e7a4f81a2ad536ff6e2effd, type: 3}
+  m_Name: NecromancersTrial_Bot.DeckConfig
+  m_EditorClassIdentifier: 
+  _uid: 9cb9210fe26079d4c9a8468d278a2f68
+  units:
+  - faction: {fileID: 11400000, guid: f6b78137060e52b469949213fd15dcbc, type: 2}
+    units:
+    - {fileID: 11400000, guid: bb196aec159ba6a4782186d81d7717fe, type: 2}
+    - {fileID: 11400000, guid: 1564f0e0032bd0849a1cd163b7171378, type: 2}
+  - faction: {fileID: 11400000, guid: 85884483f25649048bb7c1f359360b66, type: 2}
+    units:
+    - {fileID: 11400000, guid: d4207c5dfbbc1894b924a45bb6162d4a, type: 2}
+    - {fileID: 11400000, guid: b730d5b0c91139048aba0a1020959ed9, type: 2}
+    - {fileID: 11400000, guid: 2603059d15c90bf41b53b2bb748e5809, type: 2}
+    - {fileID: 11400000, guid: 96151b57da9ddc24099ca71ffbcad390, type: 2}
+  - faction: {fileID: 11400000, guid: e96a9dfa3f27d2a4eb12522fc6e5ae80, type: 2}
+    units:
+    - {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+    - {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}

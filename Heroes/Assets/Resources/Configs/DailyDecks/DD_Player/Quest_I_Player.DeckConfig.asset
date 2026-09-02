@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d7fe9c1e7a4f81a2ad536ff6e2effd, type: 3}
+  m_Name: Quest_I_Player.DeckConfig
+  m_EditorClassIdentifier: 
+  _uid: 493daa4fdda70fc419c477502bb35888
+  units:
+  - faction: {fileID: 11400000, guid: d194f6c3eee04f941aa458eed43f28ac, type: 2}
+    units:
+    - {fileID: 11400000, guid: 1a61fb290595a504dbe48887cf42f560, type: 2}
+    - {fileID: 11400000, guid: 7c8a0a4dcbd2f3947a383ff18c8c4b16, type: 2}
+    - {fileID: 11400000, guid: 04069aae09e373b499446105d4668559, type: 2}
+  - faction: {fileID: 11400000, guid: 4159f6dcf3460cb4194e1fc775d4cb4a, type: 2}
+    units:
+    - {fileID: 11400000, guid: 7e409d985dd45fa4ca1551608770e665, type: 2}
+    - {fileID: 11400000, guid: 30614401d9bf5e641a475d7a8ff1708e, type: 2}
+    - {fileID: 11400000, guid: 53f9f1baa90f25c43bf5e923b2e1f59b, type: 2}
+  - faction: {fileID: 11400000, guid: e96a9dfa3f27d2a4eb12522fc6e5ae80, type: 2}
+    units:
+    - {fileID: 11400000, guid: 4efc9f43a8fd6274098912315ec09ce6, type: 2}
+    - {fileID: 11400000, guid: d8a19f64884445c4a9dae1552b1a341b, type: 2}
+    - {fileID: 11400000, guid: 7af8720761888e149b47db40f4a542b5, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cd0549595884c389fe0e33dc3521ae4, type: 3}
+  m_Name: UD_Vampire
+  m_EditorClassIdentifier: 
+  _uid: 13f00881985e9754c9dda00b5b4a92e1
+  _botAiType: 0
+  _BotAiUnitLowerBoundCounter: 0
+  _BotAiUnitUpperBoundCounter: 0
+  _botAiUnitLowerBoundOfMinimumCost: 0
+  _botAiUnitUpperBoundOfMinimumCost: 0
+  _type: 0
+  _name: 
+  _icon: {fileID: 0}
+  _targetType: 0
+  _fx: {fileID: 1316597554811635219, guid: 767787ca49be14c4db5e006fcbd6d7f3, type: 3}
+  _fxPosition: {x: 0, y: 0, z: 0}
+  _fxScale: {x: 1, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _healPercent: 30

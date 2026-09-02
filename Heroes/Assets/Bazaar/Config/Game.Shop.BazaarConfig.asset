@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a343e84f351a340832e2905fb81f23, type: 3}
+  m_Name: Game.Shop.BazaarConfig
+  m_EditorClassIdentifier: 
+  _uid: c6ab3d69b245dc4438c5f9aaf68aa036
+  PublicKey: "MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwDC3XLAfZ6O9UQaPxS9SkJ7\xAD9Je5/Vp8gwULJ7o5GErbkrtvdzURrVj2cKfFUT+yN2aHpHujQtVE0+vRHXIi\xADCli5ldDgCwupC1SMHLduVadYjup+QhByyP3JADx90uD/wUPNQPjTZcGpwa4s\xAD64KXvKTtFsb8BRIT9IZwqsOhlx9Bw4z0k4p0rjr6BInQcs5PrIWN/jTCzBap\xADOwwsuUPzmQcRgkETRIV8M15k27iwvgMCAwEAAQ=="
+  Products:
+  - ProductId: crystal_tier1
+    ShopItemConfig: {fileID: 11400000, guid: 8751718cbb9b5684089f910241cccd3e, type: 2}
+  - ProductId: crystal_tier2
+    ShopItemConfig: {fileID: 11400000, guid: f3a06ba7388f2ee418205363854b9d8b, type: 2}
+  - ProductId: crystal_tier3
+    ShopItemConfig: {fileID: 11400000, guid: a680cae47afe5ef4f93d73fd51105f19, type: 2}
+  - ProductId: crystal_tier4
+    ShopItemConfig: {fileID: 11400000, guid: de9d438fcce0ad341bd6e1904e7c5534, type: 2}
+  - ProductId: crystal_tier5
+    ShopItemConfig: {fileID: 11400000, guid: 57928737c0f48234ab0d4e42580aef1d, type: 2}

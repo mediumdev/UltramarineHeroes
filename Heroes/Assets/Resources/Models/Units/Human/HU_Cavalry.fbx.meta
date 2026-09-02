@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 1e17529a2a1aa864688fd22e175afb8f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftHand' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Rider(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider
+      parentName: Rider(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Shoulders
+      parentName: Rider(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spear
+      parentName: Rider(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Rider(Clone)
+      position: {x: 0, y: -0.08278298, z: 0.22429127}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Spine_1
+      parentName: Root
+      position: {x: -0, y: 0.61331177, z: -0.11255886}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_backLeg
+      parentName: horse_Spine_1
+      position: {x: -0.093154415, y: -0.084639296, z: -0.1117324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_backLeg_1
+      parentName: L_backLeg
+      position: {x: -0, y: -0.18774411, z: 0.024488365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_backLeg_2
+      parentName: L_backLeg_1
+      position: {x: -0, y: -0.074825555, z: -0.082988344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_backLeg_3
+      parentName: L_backLeg_2
+      position: {x: -0, y: -0.13202278, z: -0.0117097795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Spine_2
+      parentName: horse_Spine_1
+      position: {x: -0, y: -0.023577774, z: 0.21055843}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Neck_1
+      parentName: horse_Spine_2
+      position: {x: -0, y: 0.024012296, z: 0.17698917}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FrontLeg
+      parentName: horse_Neck_1
+      position: {x: -0.093154415, y: -0.115278944, z: 0.09694686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FrontLeg_1
+      parentName: L_FrontLeg
+      position: {x: -0, y: -0.12998778, z: -0.09900937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FrontLeg_2
+      parentName: L_FrontLeg_1
+      position: {x: -0, y: -0.1133179, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FrontLeg_3
+      parentName: L_FrontLeg_2
+      position: {x: -0, y: -0.12108391, z: -0.011165563}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Neck_2
+      parentName: horse_Neck_1
+      position: {x: -0, y: 0.12611605, z: 0.11784615}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Head
+      parentName: horse_Neck_2
+      position: {x: -0, y: 0.081665315, z: 0.12508231}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FrontLeg
+      parentName: horse_Neck_1
+      position: {x: 0.09315, y: -0.115278944, z: 0.09694686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FrontLeg_1
+      parentName: R_FrontLeg
+      position: {x: -0, y: -0.12998778, z: -0.09900937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FrontLeg_2
+      parentName: R_FrontLeg_1
+      position: {x: -0, y: -0.1133179, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FrontLeg_3
+      parentName: R_FrontLeg_2
+      position: {x: -0, y: -0.12108391, z: -0.011165563}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Spine_1
+      parentName: horse_Spine_2
+      position: {x: -0, y: 0.13422404, z: -0.048135523}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Spine_2
+      parentName: Rider_Spine_1
+      position: {x: -0, y: 0.088507555, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Spine_3
+      parentName: Rider_Spine_2
+      position: {x: -0, y: 0.084132604, z: -0.015076894}
+      rotation: {x: -0.08158301, y: -0, z: -0, w: 0.9966666}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Rider_Hand_1
+      parentName: Rider_Spine_3
+      position: {x: -0.13517539, y: -0.007170727, z: 0.008744312}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Rider_Hand_2
+      parentName: R_Rider_Hand_1
+      position: {x: -0.13417874, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Rider_Hand_3
+      parentName: R_Rider_Hand_2
+      position: {x: -0.14070813, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Neck_1
+      parentName: Rider_Spine_3
+      position: {x: -0, y: 0.050378323, z: 0.03863554}
+      rotation: {x: -0.07370655, y: -0, z: -0, w: 0.99728006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Head
+      parentName: Rider_Neck_1
+      position: {x: -0, y: 0.053958073, z: 0.04010593}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Tail_1
+      parentName: Rider_Head
+      position: {x: -0, y: 0.072166495, z: -0.04289139}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rider_Tail_2
+      parentName: Rider_Tail_1
+      position: {x: -0, y: 0.020482007, z: -0.07930213}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Rider_Hand_1
+      parentName: Rider_Spine_3
+      position: {x: 0.13518, y: -0.007170727, z: 0.008744312}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Rider_hand_2
+      parentName: L_Rider_Hand_1
+      position: {x: 0.13417, y: -2.842171e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Rider_hand_3
+      parentName: L_Rider_hand_2
+      position: {x: 0.14071, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Tail_1
+      parentName: horse_Spine_1
+      position: {x: -0, y: 0.024407841, z: -0.19844636}
+      rotation: {x: 0.017103717, y: -0, z: -0, w: 0.99985373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: horse_Tail_2
+      parentName: horse_Tail_1
+      position: {x: -0, y: -0.12650819, z: -0.15065098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_backLeg
+      parentName: horse_Spine_1
+      position: {x: 0.09315, y: -0.084639296, z: -0.1117324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_backLeg_1
+      parentName: R_backLeg
+      position: {x: -0, y: -0.18774411, z: 0.024488365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_backLeg_2
+      parentName: R_backLeg_1
+      position: {x: -0, y: -0.074825555, z: -0.082988344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_backLeg_3
+      parentName: R_backLeg_2
+      position: {x: -0, y: -0.13202278, z: -0.0117097795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

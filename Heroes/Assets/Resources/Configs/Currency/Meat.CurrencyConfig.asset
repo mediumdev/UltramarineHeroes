@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2747d0b2aa704d7f91f7f48b2ebc2cdc, type: 3}
+  m_Name: Meat.CurrencyConfig
+  m_EditorClassIdentifier: 
+  _uid: bcc02485fba6c8744af9a6b9dc5fce90
+  _title: Meat
+  _description: "\u0628\u0631\u0627\u06CC \u0627\u0631\u062A\u0642\u0627\u06CC \u0633\u0631\u0628\u0627\u0632\u062E\u0627\u0646\u0647
+    \u0627\u0633\u062A\u0641\u0627\u062F\u0647 \u0645\u06CC\u0634\u0647"
+  _icon: {fileID: 21300000, guid: 6f2bafe7c5675bb408b6dd8369e5bdef, type: 3}
+  _descriptionIcon: {fileID: 0}
+  _rarity: 1
+  maxValue: 99000
+  currencyType: 0

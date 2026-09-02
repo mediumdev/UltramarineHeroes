@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558f19c1d4ea6d4448312035e08c10ad, type: 3}
+  m_Name: DwarvesTowerAbility
+  m_EditorClassIdentifier: 
+  _uid: d2941d66f1e2aff42950a33d64f1cbb3
+  _botAiType: 2
+  _BotAiUnitLowerBoundCounter: 2
+  _BotAiUnitUpperBoundCounter: 3
+  _botAiUnitLowerBoundOfMinimumCost: 3
+  _botAiUnitUpperBoundOfMinimumCost: 4
+  _type: 0
+  _name: "\u0633\u067E\u0631"
+  _icon: {fileID: 0}
+  _targetType: 1
+  _fx: {fileID: 4559144976657245807, guid: 58e23e9ccbd74fb4c946ae89d0fa5771, type: 3}
+  _fxPosition: {x: 0.518, y: -0.27, z: 0.161}
+  _fxScale: {x: 0.19, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _abilityEffects:
+  - {fileID: 11400000, guid: 9daaef4753ebeb043a0a3e5740f1e949, type: 2}

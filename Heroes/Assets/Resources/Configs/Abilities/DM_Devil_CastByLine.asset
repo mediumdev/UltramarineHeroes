@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdc80aa6bdc8fb49afe7ec9736c5ae7, type: 3}
+  m_Name: DM_Devil_CastByLine
+  m_EditorClassIdentifier: 
+  _uid: b11ea66354336fc4bad0532527b37fbf
+  _botAiType: 0
+  _BotAiUnitLowerBoundCounter: 0
+  _BotAiUnitUpperBoundCounter: 0
+  _botAiUnitLowerBoundOfMinimumCost: 0
+  _botAiUnitUpperBoundOfMinimumCost: 0
+  _type: 4
+  _name: 
+  _icon: {fileID: 0}
+  _targetType: 0
+  _fx: {fileID: -2983555512314542758, guid: 6f0e03914878dc1419073ff85b4f7de8, type: 3}
+  _fxPosition: {x: 0, y: 0, z: 0}
+  _fxScale: {x: 1, y: 1, z: 1}
+  _customAnimation: 0
+  _intervalDuration: 0
+  _intervalCount: 0
+  _towerAbilitySound: {fileID: 0}
+  _ability: {fileID: 11400000, guid: bf94dc0b653f38b4586e0a70db861f57, type: 2}
+  _range: 10
+  _fullLine: 1
